@@ -1,10 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&display=swap');
-h3,h2,p
+h3,h2
 {
     font-family: 'Barlow', sans-serif;
     color: darkred;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+p
+{
+    font-family: 'Barlow', sans-serif;
+    color: darkred
+}
 html
 {
     background-color: black;
